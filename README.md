@@ -12,4 +12,4 @@ ModelFileのダウンロード  ****1GBぐらい容量あり。****
 
 ターミナル画像
 
-<img src="https://github.com/daisukenagata/wikiJapan/blob/master/wiki.png?raw=true" width="400px" height="200px">
+<img src="https://github.com/daisukenagata/wikiJapan/blob/master/wikiJapan.png?raw=true" width="400px" height="200px">
