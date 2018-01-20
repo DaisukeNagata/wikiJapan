@@ -1,9 +1,13 @@
 from gensim.models import word2vec
+import sys
+
 
 model = word2vec.Word2Vec.load('wiki.model')
-results = model.most_similar(positive = ['Swift'])
-
-for result in results:
-    print(result)
-
-
+sys.stdout.write("> ")
+sys.stdout.flush()
+sentence = sys.stdin.readline()
+for sp in sentence.split('\n'):
+    res = model.most_similar(positive = sp)
+    for result in res:
+        print(result)
+    break
