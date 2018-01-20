@@ -4,13 +4,11 @@ ModelFileのダウンロード  ****1GBぐらい容量あり。****
 
 - [Link destination of GoogleDrive](https://drive.google.com/file/d/1kz4U37FS6aK9isPzBufcD86EpFVtgvkM/view)
 
-ダウンロードしたModelFileをwikiJapan.pyと同じHomeディレクトリに設置
+ダウンロードしたModelFileをwikiJapan.pyと同じディレクトリに設置
 
-- python wikiJapan.py と　ターミナルで入力
+- ターミナルでpython wikiJapan.pyと入力
 
-wikiJapan.pyのコードです。
-
-- results = model.most_similar(positive = ['Swift'])→Swiftに、似た意味の文字を表示します。数字は似ている確率です。
+-  > 文字入力
 
 ターミナル画像
 
