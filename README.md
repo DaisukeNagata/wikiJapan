@@ -2,7 +2,7 @@
 
 ModelFileのダウンロード  ****1GBぐらい容量あり。****
 
-- [Link destination of GppgleDrive](https://drive.google.com/file/d/1kz4U37FS6aK9isPzBufcD86EpFVtgvkM/view)
+- [Link destination of GoogleDrive](https://drive.google.com/file/d/1kz4U37FS6aK9isPzBufcD86EpFVtgvkM/view)
 
 ダウンロードしたModelFileをwikiJapan.pyと同じHomeディレクトリに設置
 
